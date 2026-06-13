@@ -14,7 +14,7 @@ AI 技能、插件、Prompt 工程。
 
 | 仓库 | 说明 |
 |------|------|
-| [🔍 见真章](https://github.com/potat0-Zheng/jian-zhen-zhang) | 本人蒸馏出的针对人文社科领域的分析工具 |
+| [🥔 potato-skills](https://github.com/potat0-Zheng/potato-skills) | 全部 10 个 Claude Code 中文技能（含见真章） |
 
 **Claude Code 中文技能**（10 个）
 
