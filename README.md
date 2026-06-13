@@ -12,7 +12,7 @@ AI 技能、插件、Prompt 工程。
 
 | 仓库 | 说明 |
 |------|------|
-| [🥔 potato.skill](https://github.com/potat0-Zheng/potato.skill) | 本人蒸馏出的针对人文社科领域的分析工具 |
+| [🔍 jian-zhen-zhang](https://github.com/potat0-Zheng/jian-zhen-zhang) | 本人蒸馏出的针对人文社科领域的分析工具 |
 
 ### 📖 个人内容库
 作品集、知识库等以内容为核心的产出。
