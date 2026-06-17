@@ -44,7 +44,9 @@ AI 辅助编写的实用工具。
 ### 🏗️ 项目库
 Vibe Coding 实战项目。
 
-—
+| 仓库 | 说明 |
+|------|------|
+| [🌍 novel-world-view](https://github.com/potat0-Zheng/novel-world-view) | 小说世界观可视化应用 — 2.5D/2D 交互式地图编辑器，React + Three.js/R3F |
 
 ---
 
